@@ -101,7 +101,7 @@ The ``<a>`` tags used to create buttons inside the sections will be automaticall
 ```
 ### output:
  
-<img src="ss.png" alt="drawing" width="400"/>
+<img src="doc_images/ss.png" alt="drawing" width="400"/>
   
 ### Benefits
 * **Effortless Customization**: Easily customize video thumbnails with different play icons.
