@@ -3,7 +3,7 @@
  ### Overview:
  To ensure consistency with our brand guidelines, we have introduced automatic font color setting for sections in our landing pages. When specific background color classes are applied to a section, the font color will be automatically set to comply with our brand guidelines. Additionally, if a developer attempts to change the font color using inline styling, the script will check if the color is valid for the background and reset it if necessary.
 
-### Overview: How It Works
+### How It Works
 * When a CSS class associated with one of the specified background colors is applied to a section, the font color will be automatically set to comply with our brand guidelines.
 
 * If a developer tries to change the font color using inline styling, the script will check if the color is valid for the background and reset it if necessary.
