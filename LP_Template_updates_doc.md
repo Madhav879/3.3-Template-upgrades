@@ -1,5 +1,5 @@
 
- ## Update: Font Family
+ ## Update: Font Family - 
  ### Overview:
  As per our new brand guidelines, the font family of headings and body text has been updated to "Reckless" and "Accord" respectively. This update will be applied to all landing pages created using the latest template. There is no need to add a font-family externally as it will be fetched automatically. 
 
