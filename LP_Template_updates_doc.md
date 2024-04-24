@@ -1,4 +1,14 @@
 
+ ## Update: Font Family
+ ### Overview:
+ As per our new brand guidelines, the font family of headings and body text has been updated to "Reckless" and "Accord" respectively. This update will be applied to all landing pages created using the latest template. There is no need to add a font-family externally as it will be fetched automatically. 
+
+ ### Changes Made
+ * Font family of headings updated to **"Reckless"**.
+ * Font family of body text updated to **"Accord"**.
+
+ <br>
+ 
  ## New Feature: Conditional Section BG classes.
  ### Overview:
  To ensure consistency with our brand guidelines, we have introduced automatic font color setting for sections in our landing pages. When specific background color classes are applied to a section, the font color will be automatically set to comply with our brand guidelines. Additionally, if a developer attempts to change the font color using inline styling, the script will check if the color is valid for the background and reset it if necessary.
@@ -93,7 +103,7 @@ The ``<a>`` tags used to create buttons inside the sections will be automaticall
 * **.noShadow**: Removes shadow behind the icon.
 * **.v-icon-radius**: Adds round edges to the thumbnail.
 
-#### Input:
+### Input:
 ```html
 <a href="#" class="thumbnail video-play-button-cyan v-icon-radius">
     <img src="https://now.blueyonder.com/thumbnail.jpg" alt="video_thumbnail">
